@@ -1,0 +1,15 @@
+require("qixq.plugins-setup")
+require("qixq.core.options")
+require("qixq.core.keymaps")
+
+-- 插件
+require("qixq.plugins.lualine")
+require("qixq.plugins.nvim-tree")
+require("qixq.plugins.treesitter")
+require("qixq.plugins.lsp")
+require("qixq.plugins.cmp")
+require("qixq.plugins.comment")
+require("qixq.plugins.autopairs")
+require("qixq.plugins.bufferline")
+require("qixq.plugins.gitsigns")
+require("qixq.plugins.telescope")
